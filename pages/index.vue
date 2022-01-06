@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <p>Something</p>
-    <a>A Link</a>
-  </div>
+  <div></div>
 </template>
 
 <script>
